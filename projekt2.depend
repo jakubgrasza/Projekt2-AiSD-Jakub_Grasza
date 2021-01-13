@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610544923 source:c:\users\lenovo\desktop\wyk³ady zdalne\projekt2 - aisd\projekt2\main.cpp
+	<iostream>
+	<ctime>
+	<time.h>
+	<cstdlib>
+	<fstream>
+	<cstring>
+	<conio.h>
+	<iomanip>
+
